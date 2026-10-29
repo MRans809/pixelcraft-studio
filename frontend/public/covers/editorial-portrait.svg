@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title">
+  <title id="title">杂志人物封面模板示例</title>
+  <rect width="800" height="1000" fill="#1d2320"/>
+  <rect x="70" y="80" width="660" height="840" fill="#d6a48b"/>
+  <circle cx="400" cy="395" r="180" fill="#f0c4aa"/>
+  <path d="M225 392 C250 165 555 155 580 405 C515 335 315 330 225 392Z" fill="#34312f"/>
+  <path d="M175 920 C180 690 275 590 400 590 C525 590 620 690 625 920Z" fill="#087f75"/>
+  <text x="95" y="150" fill="#fffdf7" font-family="Arial, sans-serif" font-size="88" font-weight="800">FORM</text>
+  <text x="101" y="204" fill="#fffdf7" font-family="Arial, sans-serif" font-size="18">PEOPLE · IDEAS · CULTURE</text>
+  <rect x="576" y="110" width="118" height="42" fill="#edc654"/>
+  <text x="595" y="138" fill="#161917" font-family="Arial, sans-serif" font-size="16" font-weight="700">ISSUE 08</text>
+</svg>
+

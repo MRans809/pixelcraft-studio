@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title">
+  <title id="title">旅途明信片模板示例</title>
+  <rect width="800" height="1000" fill="#dce8e1"/>
+  <rect x="70" y="74" width="660" height="852" rx="18" fill="#fffdf7"/>
+  <rect x="105" y="112" width="590" height="570" rx="8" fill="#84b9b2"/>
+  <circle cx="560" cy="240" r="92" fill="#f0ca55"/>
+  <path d="M105 540 L270 370 L390 493 L520 310 L695 505 L695 682 L105 682Z" fill="#176c65"/>
+  <path d="M105 607 C240 560 370 650 510 585 C585 550 642 558 695 590 L695 682 L105 682Z" fill="#f7f1df" opacity=".9"/>
+  <text x="105" y="760" fill="#18201c" font-family="Arial, sans-serif" font-size="52" font-weight="700">WANDER NOTES</text>
+  <text x="108" y="815" fill="#5f6963" font-family="Arial, sans-serif" font-size="22">A quiet place, a lasting memory</text>
+  <line x1="108" y1="858" x2="420" y2="858" stroke="#d85e45" stroke-width="8"/>
+</svg>
+

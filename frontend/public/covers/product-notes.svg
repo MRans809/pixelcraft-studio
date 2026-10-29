@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title">
+  <title id="title">产品灵感板模板示例</title>
+  <rect width="800" height="1000" fill="#eee9de"/>
+  <rect x="64" y="65" width="672" height="870" rx="12" fill="#fff"/>
+  <rect x="96" y="110" width="380" height="480" rx="6" fill="#d95f45"/>
+  <ellipse cx="288" cy="350" rx="120" ry="170" fill="#f6d3bf"/>
+  <rect x="510" y="110" width="194" height="230" rx="6" fill="#1e6e68"/>
+  <circle cx="607" cy="225" r="58" fill="#edc654"/>
+  <rect x="510" y="370" width="194" height="220" rx="6" fill="#dfe6e0"/>
+  <path d="M548 530 L607 406 L665 530Z" fill="#547a72"/>
+  <text x="98" y="680" fill="#18201c" font-family="Arial, sans-serif" font-size="56" font-weight="700">OBJECT / 01</text>
+  <text x="100" y="730" fill="#66706a" font-family="Arial, sans-serif" font-size="20">Material, shape and everyday ritual</text>
+  <rect x="100" y="790" width="180" height="64" fill="#1d2320"/>
+  <text x="126" y="830" fill="#fff" font-family="Arial, sans-serif" font-size="18">MOODBOARD</text>
+</svg>
+

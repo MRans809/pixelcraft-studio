@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title">
+  <title id="title">节日祝福卡模板示例</title>
+  <rect width="800" height="1000" fill="#193e3a"/>
+  <rect x="80" y="74" width="640" height="852" rx="10" fill="#f7f1df"/>
+  <circle cx="400" cy="375" r="205" fill="#d95f45"/>
+  <circle cx="400" cy="375" r="162" fill="#edc654"/>
+  <path d="M300 430 C340 300 460 300 500 430 C445 400 355 400 300 430Z" fill="#193e3a"/>
+  <text x="180" y="700" fill="#193e3a" font-family="Arial, sans-serif" font-size="74" font-weight="800">GOOD LIGHT</text>
+  <text x="246" y="757" fill="#d95f45" font-family="Arial, sans-serif" font-size="24" font-weight="700">FOR THE DAYS AHEAD</text>
+  <line x1="285" y1="820" x2="515" y2="820" stroke="#193e3a" stroke-width="3"/>
+</svg>
+

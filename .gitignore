@@ -1,0 +1,13 @@
+node_modules/
+.npm-cache/
+.next/
+dist/
+target/
+.idea/
+.vscode/
+.env
+uploads/
+*.log
+*.tsbuildinfo
+.DS_Store
+
